@@ -1,3 +1,10 @@
 add_executable(2-1 2-1.c)
 add_executable(2-2 2-2.c)
 add_executable(2-3 2-3.c)
+add_executable(2-5 2-5.c)
+add_executable(2-6 2-6.c)
+
+add_executable(3-1 3-1.c)
+add_executable(3-3 3-3.c)
+add_executable(3-4 3-4.c)
+add_executable(3-5 3-5.c)
