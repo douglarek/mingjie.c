@@ -1,2 +1,2 @@
-((nil . ((cmake-ide-build-dir . "build"))))
+((nil . ((projectile-project-compilation-dir . "build"))))
 
